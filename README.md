@@ -6,7 +6,7 @@
 ---
 
 ## AIM
-To design and test the performance of integrator and differentiator circuits using Op-amp
+To design and test the performance of integrator and differentiator circuits using  Op-amp
 
 ---
 
